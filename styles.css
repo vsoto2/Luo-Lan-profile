@@ -1,0 +1,29 @@
+body {
+    background-color: #ff0000;
+}
+
+h1 {
+    color: #000099;
+}
+
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #ffffff;
+}
+
+li {
+    font-family: 'Indie Flower', cursive;
+    color: #000000;
+
+}
+
+li {
+    background-color:#FFFF00
+;
+ border:3px dotted blue;
+}
+
+.youtube {
+    width: 300px;
+}
+
